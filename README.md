@@ -118,8 +118,7 @@ To understand customer purchasing behavior:
 ## 📌 Conclusion
 
 This project demonstrates a complete data analytics workflow including data cleaning, exploratory analysis, visualization, and insight generation.
-The approach follows best practices and is suitable for real-world business analysis as well as technical interviews.
 
 
 
-Just tell me 👍
+
